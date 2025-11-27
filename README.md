@@ -25,4 +25,4 @@ I really, really love eating McDonald's!
 
 ---
 
-<a href="https://info.flagcounter.com/B4dT"><img src="https://info.flagcounter.com/2Gt4][IMG]https://s01.flagcounter.com/countxl/2Gt4/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_1/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/w11U"><img src="https://s01.flagcounter.com/countxl/w11U/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
