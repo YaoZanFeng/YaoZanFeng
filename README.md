@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm YaoZanFeng
 
-<!--
-**YaoZanFeng/YaoZanFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🧠 **Primary language**: `Java`  
+> 💻 **IDE**: IDEA, Android Studio  
+> 🧙‍♂️ **Job**: NULL
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🪄 Who am I?
+
+I am an **alien**.
+
+I really, really love eating McDonald's!
+
+---
+
+## 🛠️ Skills
+
+| Skill                 | Proficiency |
+|----------------------|-------------|
+| 🍚 Eat | ⭐⭐⭐⭐⭐        |
+| 😴 Sleep | ⭐⭐⭐⭐         |
+| 🧱 Java/Kotlin/.Net? Never touched it 😎 | ❌          |
+
+---
+
+<a href="https://info.flagcounter.com/B4dT"><img src="https://info.flagcounter.com/2Gt4][IMG]https://s01.flagcounter.com/countxl/2Gt4/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_1/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
